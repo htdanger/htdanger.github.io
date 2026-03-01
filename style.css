@@ -157,6 +157,7 @@ h2 {
 .bio-container img {
     width: 359px;
     border-radius: 8px;
+    margin: 0 auto;
 }
 
 .bio-text {
