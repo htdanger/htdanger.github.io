@@ -75,7 +75,7 @@ nav a:hover {
 
 header {
     height: 90vh;
-    background: url("https://photos.smugmug.com/Family/n-MQVB8p/2020s/2025/08/iZ6HnmF5/0/NBmwHbWNKgmbggzWgqrnKPrLCS5BjKtQRSvsQvDdW/S/IMG_4304-S.jpg") center/cover no-repeat;
+    /* background: url("https://photos.smugmug.com/Family/n-MQVB8p/2020s/2025/08/iZ6HnmF5/0/NBmwHbWNKgmbggzWgqrnKPrLCS5BjKtQRSvsQvDdW/S/IMG_4304-S.jpg") center/cover no-repeat; */
     display: flex;
     align-items: center;
     justify-content: center;
