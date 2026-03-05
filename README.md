@@ -1,6 +1,6 @@
 # Henry Dangerfield - Organist Website
 
-Personal website for Henry Dangerfield, pipe organist.
+Personal website for Henry Dangerfield - pipe organist.
 
 ## Deployment & Favicon Validation Checklist
 
